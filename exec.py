@@ -1,6 +1,5 @@
 from functions import preprocessing, lyricsencoding
-import dataloader
-import models
+from codes import dataloader, models
 import pandas as pd
 
 
